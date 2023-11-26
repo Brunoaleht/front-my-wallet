@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "my-front-wallet",
+    "slug": "my-front-wallet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
